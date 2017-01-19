@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AplexBuzzTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="buzztext">Aplex Buzz Test</string>
+    <string name="pinstatus">pinstatus: 0</string>
+    <string name="button">start</string>
+
+</resources>
